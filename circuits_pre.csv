@@ -1,0 +1,35 @@
+circuit_id,country,configuration,length (km),number_of_corners,drs_zones
+bahrain,Bahrain,Race,5.412,15,3
+albert_park,Australia,Street,5.303,14,4
+sepang,Malaysia,Race,5.543,15,1
+shanghai,China,Race,5.451,16,2
+catalunya,Spain,Race,4.657,14,2
+monaco,Monaco,Street,3.337,19,1
+istanbul,Turkey,Race,5.338,14,2
+villeneuve,Canada,Street,4.361,14,2
+valencia,Spain,Street,5.419,25,1
+silverstone,UK,Race,5.891,18,2
+hockenheimring,Germany,Race,4.574,16,2
+hungaroring,Hungary,Race,4.381,14,2
+spa,Belgium,Race,7.004,20,2
+monza,Italy,Race,5.793,11,2
+marina_bay,Singapore,Street,4.928,19,3
+suzuka,Japan,Race,5.807,18,1
+yeongam,Korea,Race,5.615,18,1
+interlagos,Brazil,Race,4.309,15,2
+yas_marina,UAE,Race,5.554,16,2
+nurburgring,Germany,Race,5.148,15,2
+buddh,India,Race,5.125,16,2
+americas,USA,Race,5.514,20,2
+red_bull_ring,Austria,Race,4.318,10,2
+sochi,Russia,Race,5.848,19,2
+rodriguez,Mexico,Race,4.304,17,1
+baku,Azerbaijan,Street,6.003,20,2
+ricard,France,Race,5.842,15,2
+mugello,Italy,Race,5.245,15,1
+portimao,Portugal,Race,4.653,15,1
+imola,Italy,Race,4.909,22,1
+zandvoort,Netherlands,Race,4.259,14,2
+losail,Qatar,Race,5.418,16,1
+jeddah,Saudi Arabia,Street,6.174,27,3
+miami,USA,Street,5.412,19,3

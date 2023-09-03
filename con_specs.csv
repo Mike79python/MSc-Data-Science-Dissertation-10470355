@@ -1,0 +1,140 @@
+season,constructor_id,Engine Manufacturer,Engine,Displacement,Cylinders,Valves,constructor_country_of_origin
+2010,ferrari,Ferrari,Ferrari Tipo 056,2398,8,32,Italy
+2010,force_india,Mercedes,Mercedes FO 108X,2398,8,32,India
+2010,hrt,Cosworth,Cosworth CA2010,2400,8,32,Spain
+2010,lotus_racing,Cosworth,Cosworth CA2010,2400,8,32,Malaysia
+2010,mclaren,Mercedes,Mercedes FO 108X,2398,8,32,United Kingdom
+2010,mercedes,Mercedes,Mercedes FO 108X,2398,8,32,Germany
+2010,red_bull,Renault,Renault RS27-2010,2400,8,32,Austria
+2010,renault,Renault,Renault RS27-2010,2400,8,32,France
+2010,sauber,Ferrari,Ferrari Tipo 056,2398,8,32,Switzerland
+2010,toro_rosso,Ferrari,Ferrari Tipo 056,2398,8,32,Italy
+2010,virgin,Cosworth,Cosworth CA2010,2400,8,32,United Kingdom
+2010,williams,Cosworth,Cosworth CA2010,2400,8,32,United Kingdom
+2011,ferrari,Ferrari,Ferrari Tipo 056,2398,8,32,Italy
+2011,force_india,Mercedes,Mercedes FO 108Y,2398,8,32,India
+2011,hrt,Cosworth,Cosworth CA2011,2400,8,32,Spain
+2011,lotus_racing,Renault,Renault RS27-2011,2400,8,32,Malaysia
+2011,mclaren,Mercedes,Mercedes FO 108Y,2398,8,32,United Kingdom
+2011,mercedes,Mercedes,Mercedes FO 108Y,2398,8,32,Germany
+2011,red_bull,Renault,Renault RS27-2011,2400,8,32,Austria
+2011,renault,Renault,Renault RS27-2011,2400,8,32,France
+2011,sauber,Ferrari,Ferrari Tipo 056,2398,8,32,Switzerland
+2011,toro_rosso,Ferrari,Ferrari Tipo 056,2398,8,32,Italy
+2011,virgin,Cosworth,Cosworth CA2011,2400,8,32,United Kingdom
+2011,williams,Cosworth,Cosworth CA2011,2400,8,32,United Kingdom
+2012,caterham,Renault,Renault RS27-2012,2400,8,32,Malaysia
+2012,ferrari,Ferrari,Ferrari Tipo 056,2398,8,32,Italy
+2012,force_india,Mercedes,Mercedes FO 108Z,2398,8,32,India
+2012,hrt,Cosworth,Cosworth CA2012,2400,8,32,Spain
+2012,lotus_f1,Renault,Renault RS27-2012,2400,8,32,United Kingdom
+2012,marussia,Cosworth,Cosworth CA2012,2400,8,32,Russia
+2012,mclaren,Mercedes,Mercedes FO 108Z,2398,8,32,United Kingdom
+2012,mercedes,Mercedes,Mercedes FO 108Z,2398,8,32,Germany
+2012,red_bull,Renault,Renault RS27-2012,2400,8,32,Austria
+2012,sauber,Ferrari,Ferrari Tipo 056,2398,8,32,Switzerland
+2012,toro_rosso,Ferrari,Ferrari Tipo 056,2398,8,32,Italy
+2012,williams,Renault,Renault RS27-2012,2400,8,32,United Kingdom
+2013,caterham,Renault,Renault RS27-2013,2400,8,32,Malaysia
+2013,ferrari,Ferrari,Ferrari Tipo 056,2398,8,32,Italy
+2013,force_india,Mercedes,Mercedes FO 108F,2398,8,32,India
+2013,lotus_f1,Renault,Renault RS27-2013,2400,8,32,United Kingdom
+2013,marussia,Cosworth,Cosworth CA2013,2400,8,32,Russia
+2013,mclaren,Mercedes,Mercedes FO 108F,2398,8,32,United Kingdom
+2013,mercedes,Mercedes,Mercedes FO 108F,2398,8,32,Germany
+2013,red_bull,Renault,Renault RS27-2013,2400,8,32,Austria
+2013,sauber,Ferrari,Ferrari Tipo 056,2398,8,32,Switzerland
+2013,toro_rosso,Ferrari,Ferrari Tipo 056,2398,8,32,Italy
+2013,williams,Renault,Renault RS27-2013,2400,8,32,United Kingdom
+2014,caterham,Renault,Renault Energy F1 2014,1600,6,24,Malaysia
+2014,ferrari,Ferrari,Ferrari Tipo 059/3,1600,6,24,Italy
+2014,force_india,Mercedes,Mercedes PU106A,1600,6,24,India
+2014,lotus_f1,Renault,Renault Energy F1 2014,1600,6,24,United Kingdom
+2014,marussia,Ferrari,Ferrari Tipo 059/3,1600,6,24,Russia
+2014,mclaren,Mercedes,Mercedes PU106A,1600,6,24,United Kingdom
+2014,mercedes,Mercedes,Mercedes PU106A,1600,6,24,Germany
+2014,red_bull,Renault,Renault Energy F1 2014,1600,6,24,Austria
+2014,sauber,Ferrari,Ferrari Tipo 059/3,1600,6,24,Switzerland
+2014,toro_rosso,Renault,Renault Energy F1 2014,1600,6,24,Italy
+2014,williams,Mercedes,Mercedes PU106A,1600,6,24,United Kingdom
+2015,ferrari,Ferrari,Ferrari Tipo 059/4,1600,6,24,Italy
+2015,force_india,Mercedes,Mercedes PU106B,1600,6,24,India
+2015,lotus_f1,Mercedes,Mercedes PU106B,1600,6,24,United Kingdom
+2015,manor,Ferrari,Ferrari Tipo 059/3,1600,6,24,United Kingdom
+2015,mclaren,Honda,Honda RA615H,1600,6,24,United Kingdom
+2015,mercedes,Mercedes,Mercedes PU106B,1600,6,24,Germany
+2015,red_bull,Renault,Renault Energy F1 2015,1600,6,24,Austria
+2015,sauber,Ferrari,Ferrari Tipo 059/4,1600,6,24,Switzerland
+2015,toro_rosso,Renault,Renault Energy F1 2015,1600,6,24,Italy
+2015,williams,Mercedes,Mercedes PU106B,1600,6,24,United Kingdom
+2016,ferrari,Ferrari,Ferrari Tipo 059/5,1600,6,24,Italy
+2016,force_india,Mercedes,Mercedes PU106C,1600,6,24,India
+2016,haas,Ferrari,Ferrari Tipo 059/5,1600,6,24,USA
+2016,manor,Mercedes,Mercedes PU106C,1600,6,24,United Kingdom
+2016,mclaren,Honda,Honda RA616H,1600,6,24,United Kingdom
+2016,mercedes,Mercedes,Mercedes PU106C,1600,6,24,Germany
+2016,red_bull,Renault,TAG Heuer (Renault),1600,6,24,Austria
+2016,renault,Renault,Renault R.E.16,1600,6,24,France
+2016,sauber,Ferrari,Ferrari Tipo 059/5,1600,6,24,Switzerland
+2016,toro_rosso,Ferrari,Ferrari Tipo 059/4,1600,6,24,Italy
+2016,williams,Mercedes,Mercedes PU106B,1600,6,24,United Kingdom
+2017,ferrari,Ferrari,Ferrari Tipo 062,1600,6,24,Italy
+2017,force_india,Mercedes,Mercedes M08 EQ Power+,1600,6,24,India
+2017,haas,Ferrari,Ferrari Tipo 062,1600,6,24,USA
+2017,mclaren,Honda,Honda RA617H,1600,6,24,United Kingdom
+2017,mercedes,Mercedes,Mercedes M08 EQ Power+,1600,6,24,Germany
+2017,red_bull,Renault,TAG Heuer (Renault),1600,6,24,Austria
+2017,renault,Renault,Renault R.E.17,1600,6,24,France
+2017,sauber,Ferrari,Ferrari Tipo 059/5,1600,6,24,Switzerland
+2017,toro_rosso,Renault,Renault R.E.17,1600,6,24,Italy
+2017,williams,Mercedes,Mercedes M08 EQ Power+,1600,6,24,United Kingdom
+2018,ferrari,Ferrari,Ferrari Tipo 062 EVO,1600,6,24,Italy
+2018,force_india,Mercedes,Mercedes M09 EQ Power+,1600,6,24,India
+2018,haas,Ferrari,Ferrari Tipo 062 EVO,1600,6,24,USA
+2018,mclaren,Renault,Renault R.E.18,1600,6,24,United Kingdom
+2018,mercedes,Mercedes,Mercedes M09 EQ Power+,1600,6,24,Germany
+2018,red_bull,Renault,TAG Heuer (Renault),1600,6,24,Austria
+2018,renault,Renault,Renault R.E.18,1600,6,24,France
+2018,sauber,Ferrari,Ferrari Tipo 062 EVO,1600,6,24,Switzerland
+2018,toro_rosso,Honda,Honda RA618H,1600,6,24,Italy
+2018,williams,Mercedes,Mercedes M09 EQ Power+,1600,6,24,United Kingdom
+2019,alfa,Ferrari,Ferrari Tipo 064,1600,6,24,Switzerland
+2019,ferrari,Ferrari,Ferrari Tipo 064,1600,6,24,Italy
+2019,haas,Ferrari,Ferrari Tipo 064,1600,6,24,USA
+2019,mclaren,Renault,Renault E Tech 19,1600,6,24,United Kingdom
+2019,mercedes,Mercedes,Mercedes M10 EQ Power+,1600,6,24,Germany
+2019,racing_point,Mercedes,Mercedes M10 EQ Power+,1600,6,24,United Kingdom
+2019,red_bull,Honda,Honda RA619H,1600,6,24,Austria
+2019,renault,Renault,Renault E Tech 19,1600,6,24,France
+2019,toro_rosso,Honda,Honda RA619H,1600,6,24,Italy
+2019,williams,Mercedes,Mercedes M10 EQ Power+,1600,6,24,United Kingdom
+2020,alfa,Ferrari,Ferrari Tipo 065,1600,6,24,Switzerland
+2020,alphatauri,Honda,Honda RA620H,1600,6,24,Italy
+2020,ferrari,Ferrari,Ferrari Tipo 065,1600,6,24,Italy
+2020,haas,Ferrari,Ferrari Tipo 065,1600,6,24,USA
+2020,mclaren,Renault,Renault E Tech 20,1600,6,24,United Kingdom
+2020,mercedes,Mercedes,Mercedes M10 EQ Performance,1600,6,24,Germany
+2020,racing_point,Mercedes,Mercedes M10 EQ Performance,1600,6,24,United Kingdom
+2020,red_bull,Honda,Honda RA620H,1600,6,24,Austria
+2020,renault,Renault,Renault E Tech 20,1600,6,24,France
+2020,williams,Mercedes,Mercedes M10 EQ Performance,1600,6,24,United Kingdom
+2021,alfa,Ferrari,Ferrari Tipo 066,1600,6,24,Switzerland
+2021,alphatauri,Honda,Honda RA621H,1600,6,24,Italy
+2021,alpine,Renault,Renault E Tech 21,1600,6,24,France
+2021,aston_martin,Mercedes,Mercedes M12 E Performance,1600,6,24,United Kingdom
+2021,ferrari,Ferrari,Ferrari Tipo 066,1600,6,24,Italy
+2021,haas,Ferrari,Ferrari Tipo 066,1600,6,24,USA
+2021,mclaren,Mercedes,Mercedes M12 E Performance,1600,6,24,United Kingdom
+2021,mercedes,Mercedes,Mercedes M12 E Performance,1600,6,24,Germany
+2021,red_bull,Honda,Honda RA621H,1600,6,24,Austria
+2021,williams,Mercedes,Mercedes M12 E Performance,1600,6,24,United Kingdom
+2022,alfa,Ferrari,Ferrari Tipo 066/7,1600,6,24,Switzerland
+2022,alphatauri,Honda RBPT,Honda Red Bull RBPTH001,1600,6,24,Italy
+2022,alpine,Renault,Renault E Tech RE22,1600,6,24,France
+2022,aston_martin,Mercedes,Mercedes M13 E Performance,1600,6,24,United Kingdom
+2022,ferrari,Ferrari,Ferrari Tipo 066/7,1600,6,24,Italy
+2022,haas,Ferrari,Ferrari Tipo 066/7,1600,6,24,USA
+2022,mclaren,Mercedes,Mercedes M13 E Performance,1600,6,24,United Kingdom
+2022,mercedes,Mercedes,Mercedes M13 E Performance,1600,6,24,Germany
+2022,red_bull,Honda RBPT,Honda Red Bull RBPTH001,1600,6,24,Austria
+2022,williams,Mercedes,Mercedes M13 E Performance,1600,6,24,United Kingdom
