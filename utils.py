@@ -1,3 +1,7 @@
+'''
+Serves as a supplementary file to the salaries data collection. Has utility functions for name processing, collection and mainly html parsing.
+'''
+
 from bs4 import BeautifulSoup
 import requests
 
